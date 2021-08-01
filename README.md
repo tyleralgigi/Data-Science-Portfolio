@@ -13,5 +13,5 @@ Showcasing my best projects in Data Science
 <p>Part 1 of was to find the shortest straight line route from cities of Romania using Uniformed and Heuristic search methods in Python. The end city is always Bucharest but the starting city is input by the users as well as what search to use.<p>
 <p>Part 2 of the assignment was to create a Tic Tac Toe game using Python where the user would play an against the computer who was running the minimax algorithm to determine its next move.<p>
 
-![](https://slideplayer.com/10116404/33/images/slide_1.jpg)
+![](https://github.com/tyleralgigi/Data-Science-Portfolio/blob/main/images/map_img.jpg?raw=true)
   
