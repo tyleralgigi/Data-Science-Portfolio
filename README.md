@@ -1,5 +1,5 @@
 # [Project 1 - House Prices Regression Algorithm](https://github.com/tyleralgigi/house-prices-regression)
-<p>I developed a regession algorthm in python to predict the finial price of homes using the <a href="http://jse.amstat.org/v19n3/decock.pdf">Ames Housing dataset</a>. I began by using one of SKlearn linear models named Lasso Regession to train my model. For feauture preperation, selection, and extraction I used techniques such as removing outliers, encoding strings to ints, and Boruta-SHAP package to select the best features. The model scored a 92%.</p>
+<p>I developed a regession algorthm in python to predict the finial price of homes using the <a href="http://jse.amstat.org/v19n3/decock.pdf">Ames Housing dataset</a>. I began by using one of SKlearn linear models, Lasso Regression to train my model. For feature preparation, selection, and extraction I used techniques such as removing outliers, encoding strings to ints, and Boruta-SHAP package to select the best features. The model scored a 92%. </p>
 
 ![](https://github.com/tyleralgigi/house-prices-regression/blob/main/features_importance.png?raw=true)
 
